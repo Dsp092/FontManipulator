@@ -1,0 +1,37 @@
+body
+{
+    background-image:url('https://tse4.mm.bing.net/th?id=OIP.NrMWp2F1KgmNKCmh_-L7NwAAAA&pid=Api&P=0')
+}
+
+.heading 
+{
+   font-size:23px;
+   width:100%;
+   margin:0px;
+   box-shadow: 5px 10px 18px green;
+}
+
+.NOTE
+{
+    font-size: 16px;
+    color:black;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    color:black;
+bottom:0px;
+text-align:center;
+background-color:aqua;
+width:100%;
+line-height: 3;
+box-shadow: -5px -10px 18px purple;
+}
+
+canvas
+{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: -5px -10px 18px;
+}
